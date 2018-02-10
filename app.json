@@ -7,7 +7,7 @@
   "repository": "https://github.com/Jigar3/TrackMyParcelAPI",
   "buildpacks": [
    {
-     "url": "https://github.com/heroku/heroku-buildpack-python.git"
+     "url": "https://github.com/heroku/heroku-buildpack-python"
    }
  ],
 

@@ -21,4 +21,4 @@ http://track-my-parcel.herokuapp.com/track/api/v1.0/FMPC0278112092/
 
    Here, FMPC0278112092 is a sample AWB Number.
 
-#### Idea Credits: @betterclever
+#### Idea Credits: [BetterClever](https://github.com/betterclever)

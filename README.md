@@ -10,7 +10,7 @@ This API can be used to make a mobile/web application that could possibly unify 
 
 This will reduce the hassle to track down your couriers from variety of sites and reduce the pain to track your couriers from some really old sites.
 
-# API ENDPOINT:
+### API ENDPOINT:
 
 http://track-my-parcel.herokuapp.com/track/api/v1.0
 
@@ -21,4 +21,4 @@ http://track-my-parcel.herokuapp.com/track/api/v1.0/FMPC0278112092/
 
    Here, FMPC0278112092 is a sample AWB Number.
 
-# Idea Credits: @betterclever
+#### Idea Credits: @betterclever
